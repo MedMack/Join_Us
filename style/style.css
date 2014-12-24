@@ -91,3 +91,21 @@
 .blue:hover {
 	background-color: #00A6F7;
 }
+.logo-title {
+	font-family: "Open Sans", X-LocaleSpecific, sans-serif;
+	font-size: 93px;
+	color: white;
+	//font-weight: bold;
+
+}
+.container h1 {
+	margin: 50px auto 10px !important;
+}
+.container h2 {
+	display: block;
+	float: left;
+	width: 100%;
+	margin: 10px auto 50px;
+	padding: 0px;
+	text-align: center;
+}
